@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Al Mazeen Gutter LTD logo">
+  <rect width="64" height="64" rx="16" fill="#1c1c1c"/>
+  <!-- roofline -->
+  <path d="M13 26 L32 12 L51 26" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- gutter trough -->
+  <path d="M16 28 Q16 36 24 36 L40 36 Q48 36 48 28" stroke="#b5652d" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- downspout -->
+  <path d="M32 37 L32 47" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+  <!-- water drop -->
+  <path d="M32 49.5c2.4 3 4 5.1 4 7.3a4 4 0 1 1-8 0c0-2.2 1.6-4.3 4-7.3z" fill="#b5652d"/>
+</svg>
